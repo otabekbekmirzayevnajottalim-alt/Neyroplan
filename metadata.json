@@ -1,0 +1,8 @@
+{
+  "name": "Neyroplan - Sun'iy Intellekt",
+  "description": "Neyroplan - Google Gemini uslubidagi aqlli yordamchi. Chat, tasvir yaratish va ovozli muloqot imkoniyatlari bilan.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
